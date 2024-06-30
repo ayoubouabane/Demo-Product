@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Computer",
+      "price": "12000",
+      "checked": true
+    },
+    {
+      "id": "2",
+      "name": "Phone",
+      "price": 5000,
+      "checked": false
+    },
+    {
+      "id": "4",
+      "name": "Scanner",
+      "price": 8000,
+      "checked": false
+    },
+    {
+      "id": "5",
+      "name": "Keyboard",
+      "price": "200",
+      "checked": true
+    },
+    {
+      "id": "3244",
+      "name": "Laptopp",
+      "price": "0",
+      "checked": true
+    },
+    {
+      "id": "3e0e",
+      "name": "Tablette",
+      "price": "1250",
+      "checked": true
+    },
+    {
+      "id": "bec2",
+      "name": "iPhone",
+      "price": "10000",
+      "checked": true
+    },
+    {
+      "id": "036d",
+      "name": "iPhone",
+      "price": "10000",
+      "checked": true
+    },
+    {
+      "id": "3355",
+      "name": "test",
+      "price": "500",
+      "checked": true
+    },
+    {
+      "id": "86d2",
+      "name": "A",
+      "price": "0",
+      "checked": true
+    }
+  ]
+}
